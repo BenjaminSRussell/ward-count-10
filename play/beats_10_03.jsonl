@@ -484,3 +484,6 @@
 {"n":484,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Mast yard. Nobody past the north mouth. We push in 7 steps. Direct on the left lane, open."}
 {"n":485,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard north mouth. Nia keeps the lamp for the push. 8 steps, direct on the left lane, open."}
 {"n":486,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north mouth. direct left open. 2 steps. The lamp stays for the push."}
+{"n":487,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Mast yard. Nobody past the north mouth. We push in 3 steps. Direct on the left lane, open."}
+{"n":488,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the lamp for the push. 4 steps, direct on the left lane, open."}
+{"n":489,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north mouth. direct left open. 5 steps. The lamp stays for the push."}
