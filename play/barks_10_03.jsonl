@@ -776,3 +776,6 @@
 {"n":776,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north mouth. Ivo keeps the rope for the push. 5 steps, direct on the left lane, open."}
 {"n":777,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north mouth. direct left open. 6 steps. The rope stays for the push."}
 {"n":778,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at the Lot. Nobody past the north mouth. We push in 7 steps. Direct on the left lane, open."}
+{"n":779,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north mouth. Bess keeps the rope for the push. 8 steps, direct on the left lane, open."}
+{"n":780,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north mouth. direct left open. 2 steps. The rope stays for the push."}
+{"n":781,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rope at Stockyard fence. Nobody past the north mouth. We push in 3 steps. Direct on the left lane, open."}
