@@ -221,3 +221,6 @@
 {"n":221,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west dock. direct left open. 6 steps. The barrel stays for the push."}
 {"n":222,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at the pier. Nobody past the west dock. We push in 7 steps. Direct on the left lane, open."}
 {"n":223,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier west dock. Bess keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":224,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. direct left open. 2 steps. The barrel stays for the push."}
+{"n":225,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Clinic roof. Nobody past the west dock. We push in 3 steps. Direct on the left lane, open."}
+{"n":226,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the barrel for the push. 4 steps, direct on the left lane, open."}
