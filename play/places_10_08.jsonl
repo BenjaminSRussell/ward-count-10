@@ -343,3 +343,6 @@
 {"n":343,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. direct left open. 8 steps. The drum stays for the push."}
 {"n":344,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at the Underpass. Nobody past the west dock. We push in 2 steps. Direct on the left lane, open."}
 {"n":345,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west dock. Nia keeps the drum for the push. 3 steps, direct on the left lane, open."}
+{"n":346,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. direct left open. 4 steps. The drum stays for the push."}
+{"n":347,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at the Underpass. Nobody past the west dock. We push in 5 steps. Direct on the left lane, open."}
+{"n":348,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the drum for the push. 6 steps, direct on the left lane, open."}
