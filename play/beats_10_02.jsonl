@@ -734,3 +734,6 @@
 {"n":734,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at High line. Nobody past the east mouth. We push in 6 steps. Direct on the left lane, open."}
 {"n":735,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east mouth. Bess keeps the radio coil for the push. 7 steps, direct on the left lane, open."}
 {"n":736,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. direct left open. 8 steps. The radio coil stays for the push."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Ward gate. Nobody past the north mouth. We push in 2 steps. Direct on the left lane, open."}
+{"n":738,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the plywood for the push. 3 steps, direct on the left lane, open."}
+{"n":739,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north mouth. direct left open. 4 steps. The plywood stays for the push."}
