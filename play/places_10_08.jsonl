@@ -349,3 +349,6 @@
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. direct left open. 7 steps. The drum stays for the push."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at the Underpass. Nobody past the west dock. We push in 8 steps. Direct on the left lane, open."}
 {"n":351,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass west dock. Bess keeps the drum for the push. 2 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west dock. direct left open. 3 steps. The drum stays for the push."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Mast yard. Nobody past the west dock. We push in 4 steps. Direct on the left lane, open."}
+{"n":354,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard west dock. Matt keeps the drum for the push. 5 steps, direct on the left lane, open."}
