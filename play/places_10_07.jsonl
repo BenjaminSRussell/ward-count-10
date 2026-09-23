@@ -452,3 +452,6 @@
 {"n":452,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west dock. direct left open. 6 steps. The lamp stays for the push."}
 {"n":453,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west dock. We push in 7 steps. Direct on the left lane, open."}
 {"n":454,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley west dock. Matt keeps the lamp for the push. 8 steps, direct on the left lane, open."}
+{"n":455,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west dock. direct left open. 2 steps. The lamp stays for the push."}
+{"n":456,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Kessler alley. Nobody past the west dock. We push in 3 steps. Direct on the left lane, open."}
+{"n":457,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the lamp for the push. 4 steps, direct on the left lane, open."}
