@@ -360,3 +360,6 @@
 {"n":360,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north mouth. direct left open. 2 steps. The crate stays for the push."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Clinic roof. Nobody past the north mouth. We push in 3 steps. Direct on the left lane, open."}
 {"n":362,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north mouth. Matt keeps the crate for the push. 4 steps, direct on the left lane, open."}
+{"n":363,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north mouth. direct left open. 5 steps. The crate stays for the push."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Clinic roof. Nobody past the north mouth. We push in 6 steps. Direct on the left lane, open."}
+{"n":365,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof north mouth. Nia keeps the crate for the push. 7 steps, direct on the left lane, open."}
