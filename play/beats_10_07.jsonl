@@ -171,3 +171,6 @@
 {"n":171,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at the Underpass. Nobody past the west dock. We push in 5 steps. Direct on the left lane, open."}
 {"n":172,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the barrel for the push. 6 steps, direct on the left lane, open."}
 {"n":173,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. direct left open. 7 steps. The barrel stays for the push."}
+{"n":174,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at the Underpass. Nobody past the west dock. We push in 8 steps. Direct on the left lane, open."}
+{"n":175,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west dock. Bess keeps the barrel for the push. 2 steps, direct on the left lane, open."}
+{"n":176,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west dock. direct left open. 3 steps. The barrel stays for the push."}
