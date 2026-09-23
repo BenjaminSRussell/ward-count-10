@@ -15,3 +15,6 @@
 {"n":15,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west dock. Bess keeps the shutter for the push. 2 steps, direct on the left lane, open."}
 {"n":16,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west dock. direct left open. 3 steps. The shutter stays for the push."}
 {"n":17,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Mast yard. Nobody past the west dock. We push in 4 steps. Direct on the left lane, open."}
+{"n":18,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard west dock. Matt keeps the shutter for the push. 5 steps, direct on the left lane, open."}
+{"n":19,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west dock. direct left open. 6 steps. The shutter stays for the push."}
+{"n":20,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Mast yard. Nobody past the west dock. We push in 7 steps. Direct on the left lane, open."}
